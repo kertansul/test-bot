@@ -1,4 +1,5 @@
 {
+  "main": "basicDialog.js",
   "dependencies": {
     "botbuilder": "^3.4.4",
     "restify": "^4.3.0"
